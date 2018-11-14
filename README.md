@@ -3,7 +3,7 @@
 cordova 支付宝支付插件
 
 ```
- cordova plugin add https://github.com/dmcBig/cordova.plugin.alipay.git --variable PID=你的商户PID可以在账户中查询
+ cordova plugin add https://github.com/DmcSDK/cordova.plugin.alipay.git --variable PID=你的商户PID可以在账户中查询
  
 ```
 
